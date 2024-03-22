@@ -114,7 +114,9 @@ body {
   clear: both;
   *zoom: 1;
 }
-
+.teaser a:hover h3 {
+  color: #a9b2b9;
+}
 /*
   ========================================
   Typography
